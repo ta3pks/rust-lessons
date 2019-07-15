@@ -1,0 +1,9 @@
+[book]
+authors = ["nikos efthias"]
+multilingual = false
+src = "src"
+title = "Rust Lessons"
+theme = "Ayu"
+[output.html.playpen]
+editable = true
+
